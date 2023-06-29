@@ -7,3 +7,6 @@ dist
 
 # Ignore idea files
 .idea
+
+# Ignore specs
+clear_groups.spec
