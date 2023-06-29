@@ -4,3 +4,6 @@ poetry.lock
 # Ignore dist and build
 build
 dist
+
+# Ignore idea files
+.idea
