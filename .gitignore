@@ -1,0 +1,6 @@
+# Ignore poetry lockfile
+poetry.lock
+
+# Ignore dist and build
+build
+dist
